@@ -1,2 +1,48 @@
-# Project exclude paths
-/out/
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+
+# Java / JVM
+*.class
+*.log
+*.ctxt
+
+# Compiled files
+*.jar
+*.war
+*.ear
+
+
+# Build folders
+target/
+build/
+bin/
+
+
+# OS files
+.DS_Store
+Thumbs.db
+
+
+# VS Code
+.vscode/
+
+
+# Temporary files
+*.tmp
+*.swp
+*.bak
+
+
+# Maven / Gradle
+
+.gradle/
+.mvn/
+
+
+# Logs
+logs/
